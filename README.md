@@ -30,7 +30,9 @@ Currently,The bot doesn't show images along with the frame data but will be upda
 
 
 
-Screenshots of the end result:
+## Screenshots:
+
+
 Current version : 
 
 ![DBFZGokuExample](https://user-images.githubusercontent.com/110817521/183385057-b1dc4a60-11fc-478e-9d3c-c9600fa0c1cd.PNG)
