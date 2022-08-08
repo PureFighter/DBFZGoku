@@ -39,6 +39,6 @@ End result example :
 ![example no2](https://user-images.githubusercontent.com/110817521/183385086-7711e49f-d749-4d15-9feb-f76844a636de.PNG)
 
 
-Setup:
+# Setup :
 To run this bot invite him to your server https://discord.com/api/oauth2/authorize?client_id=979691703160168489&permissions=274877959168&scope=bot
 and use the command .dbfz (.charname) (.move) to get the info from the Bot.
