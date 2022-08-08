@@ -16,8 +16,12 @@ beautifulsoup4 version 4.11.1
 discord and discord.py version 1.7.3
 
 Screenshots of the end result:
-Current version : ![DBFZGokuExample](https://user-images.githubusercontent.com/110817521/183385057-b1dc4a60-11fc-478e-9d3c-c9600fa0c1cd.PNG)
-End result example : ![example no2](https://user-images.githubusercontent.com/110817521/183385086-7711e49f-d749-4d15-9feb-f76844a636de.PNG)
+Current version : 
+
+![DBFZGokuExample](https://user-images.githubusercontent.com/110817521/183385057-b1dc4a60-11fc-478e-9d3c-c9600fa0c1cd.PNG)
+End result example :
+
+![example no2](https://user-images.githubusercontent.com/110817521/183385086-7711e49f-d749-4d15-9feb-f76844a636de.PNG)
 
 
 Setup:
