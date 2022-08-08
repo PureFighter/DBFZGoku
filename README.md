@@ -10,7 +10,7 @@ DBFZGoku is a bot that parses data(including images) from the site Dustloop.com 
 * [General Info](#General-Information)
 
 
-* [Libraries Used](libraries-used)
+* [Libraries Used](#libraries-used)
 
 
 * [Screenshots](#Screenshots)
