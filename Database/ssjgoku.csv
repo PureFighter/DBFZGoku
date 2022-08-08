@@ -1,0 +1,39 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit,image
+0,,5L,None,400,,90%+1,All,6,4,11,-3,,1,11,16,16,https://cdn.discordapp.com/attachments/1005816615113330699/1005817799345705062/DBFZ_SSGoku_5L.png
+1,,5LL,None,700,,100%+1,All,9,3,17,-4,,2,15,18,18,https://cdn.discordapp.com/attachments/1005816615113330699/1005817818639511562/DBFZ_SSGoku_5LL.png
+2,,5LLL,None,1000,U3+,100%+1,All,14,3,21,-5,,4,18,Launch,35 / 34,https://cdn.discordapp.com/attachments/1005816615113330699/1005816815840141327/DBFZ_SSGoku_5LLL.png
+3,,5M,None,700,,100%+1,All,9,6,17,-7,,2,15,18,18,https://cdn.discordapp.com/attachments/1005816615113330699/1005821906764701767/DBFZ_SSGoku_5M.png
+4,,5H,None,850 / 1000,U1,100%+1,All,14,6,18,-8,,4,15,Launch,22 / 39 + WSplat,https://cdn.discordapp.com/attachments/1005816615113330699/1005822045478735872/DBFZ_SSGoku_5H.png
+5,,5S,None,300ÁEEEEE6,,90%+1,All,13 [8],,Total 37 [Total 32],-4,,,5+15,5+18 {Launch},5+20,https://cdn.discordapp.com/attachments/1005816615113330699/1005822453529968711/DBFZ_SSGoku_5S.png
+6,,2L,None,400,,90%+1,All,6,2,10,±0,,1,11,16,16,https://cdn.discordapp.com/attachments/1005816615113330699/1005821930252808232/DBFZ_SSGoku_2L.png
+7,,2M,None,700,,100%+1,Low,10,9,17,-10,,2,15,Launch,22,https://cdn.discordapp.com/attachments/1005816615113330699/1005821946010800178/DBFZ_SSGoku_2M.png
+8,,2H,None,850 / 1000,U1+,100%+1,All,14,5,21+7L,-17,4-18 Head,4,15,Launch,22 / 39,https://cdn.discordapp.com/attachments/1005816615113330699/1005821920719151104/DBFZ_SSGoku_2H.png
+9,,2S,None,600,,90%+1,All,13,,Total 34,-1,,,5+15,5+18,5+30,https://cdn.discordapp.com/attachments/1005816615113330699/1005821958027489390/DBFZ_SSGoku_2S.png
+10,,6M,None,850,,80%+1,High,24,6,4+6L,±0,,3,15,18,23,https://cdn.discordapp.com/attachments/1005816615113330699/1005822748188233758/DBFZ_SSGoku_6M.png
+11,,j.L,None,400,,90%+1,High,6,4,11,,,1,11,16,16,https://cdn.discordapp.com/attachments/1005816615113330699/1005823025373008022/DBFZ_SSGoku_jL.png
+12,,j.M,None,700,,90%+1,High,10,4,15,,,2,15,18,18,https://cdn.discordapp.com/attachments/1005816615113330699/1005823157833306262/DBFZ_SSGoku_jM.png
+13,,j.H,None,850 / 1000,D1+ [D3+],90%+1,High,13,6,21,,,03-???,15,20,60 / 59 + Slide 34 [34 + WBounce],https://cdn.discordapp.com/attachments/1005816615113330699/1005823228121469008/DBFZ_SSGoku_jH.png
+14,,j.S,None,600,,90%+1,All,12,,Total 32+7L,,,,5+15,5+18,5+20,https://cdn.discordapp.com/attachments/1005816615113330699/1005823716124524564/DBFZ_SSGoku_jS.png
+15,,j.2H,None,850,U1+,90%+1,All,11,4,23,,,3,15,Launch,20 / 39,https://cdn.discordapp.com/attachments/1005816615113330699/1005823782348390421/DBFZ_SSGoku_j2H.png
+0,,236L,L Dragon Flash Fist,1200,D1,80%+1,High,24,4,14+3L,-5,,3,15,Slide 33,80 / 79 + Slide 34,https://cdn.discordapp.com/attachments/1005816615113330699/1005824447036542986/DBFZ_SSGoku_DragonFlashFist.png
+1,,236M,M Dragon Flash Fist,1300,D1,80%+1,High,28,4,14+3L,2,,3,15,GBounce,80 / 79 + GBounce + Slide 19,https://cdn.discordapp.com/attachments/1005816615113330699/1005824447036542986/DBFZ_SSGoku_DragonFlashFist.png
+2,,236H,H Dragon Flash Fist,1400,D1,80%+1,High,24~32 [20~28],4,14+3L,-5,8-16~24 [8-12~20] All,3,15,GBounce,80 / 79 + GBounce + Slide 19,https://cdn.discordapp.com/attachments/1005816615113330699/1005824447036542986/DBFZ_SSGoku_DragonFlashFist.png
+3,,j.236L,Air L Dragon Flash Fist,1000,D1,80%+1,High,20,4,20,,,3,15,Slide 28,80 / 79 + Slide 41,https://cdn.discordapp.com/attachments/1005816615113330699/1005824447036542986/DBFZ_SSGoku_DragonFlashFist.png
+4,,j.236M,Air M Dragon Flash Fist,1200,D1,80%+1,High,22,4,22,,,3,15,GBounce,80 / 79 + GBounce + Slide 19,https://cdn.discordapp.com/attachments/1005816615113330699/1005824447036542986/DBFZ_SSGoku_DragonFlashFist.png
+5,,j.236H,Air H Dragon Flash Fist,1300,D1,80%+1,High,24~32 [20~28],4,18,-4,8-16~24 [8-12~20] All,3,15,GBounce,80 / 79 + GBounce + Slide 19,https://cdn.discordapp.com/attachments/1005816615113330699/1005824447036542986/DBFZ_SSGoku_DragonFlashFist.png
+6,,214L,L Flurry Kick,500ÁEEEEE2,,100%+1ÁEEEEE2,All,10,3(6)3,11,-2,,0,11ÁEEEEE2,22ÁEEEEE2,23ÁEEEEE2,https://cdn.discordapp.com/attachments/1005816615113330699/1005824605656731730/DBFZ_SSGoku_FlurryKick.png
+7,,214M,M Flurry Kick,350ÁEEEEE4,U1+,"100%+1ÁEEEEE3 (Once), 100%+1",All,13,3{(6)3}ÁEEEEE3,21,-39,,0,11ÁEEEEE2,Launch,"23ÁEEEEE4 / 23ÁEEEEE3, 47 + WSplat",https://cdn.discordapp.com/attachments/1005816615113330699/1005824605656731730/DBFZ_SSGoku_FlurryKick.png
+8,,214H,H Flurry Kick,270ÁEEEEE6,U1+,"100%+1ÁEEEEE5 (Once), 100%+1",All,11,2{(6)2}ÁEEEEE5,14,-44,,0,11ÁEEEEE6,Launch,"23ÁEEEEE6 / 23ÁEEEEE5, 64 + WBounce",https://cdn.discordapp.com/attachments/1005816615113330699/1005824605656731730/DBFZ_SSGoku_FlurryKick.png
+9,,j.214L,Air L Flurry Kick,500ÁEEEEE2,,100%+1ÁEEEEE2,All,7,3(6)3,18,,,0,11ÁEEEEE2,Launch,23ÁEEEEE2,https://cdn.discordapp.com/attachments/1005816615113330699/1005824605656731730/DBFZ_SSGoku_FlurryKick.png
+10,,j.214M,Air M Flurry Kick,300ÁEEEEE4,U1+,"100%+1ÁEEEEE3 (Once), 100%+1",All,9,3{(6)3}ÁEEEEE3,18,,,0,11ÁEEEEE4,Launch,"23ÁEEEEE4 / 23ÁEEEEE3, 49 + WSplat",https://cdn.discordapp.com/attachments/1005816615113330699/1005824605656731730/DBFZ_SSGoku_FlurryKick.png
+11,,j.214H,Air H Flurry Kick,270ÁEEEEE6,U1+,"100%+1ÁEEEEE5 (Once), 100%+1",All,7,2{(6)2}ÁEEEEE5,14,,,0,11ÁEEEEE6,Launch,"23ÁEEEEE6 / 23ÁEEEEE5, 57 + WBounce",https://cdn.discordapp.com/attachments/1005816615113330699/1005824605656731730/DBFZ_SSGoku_FlurryKick.png
+12,,236S,Kamehameha,262ÁEEEEE5 [280ÁEEEEE5],,"90%+1 (Once) [90%+1ÁEEEEE4 (Once), 90%+1]",All,18,25 [21],21 [17],-16 [-10],,,2+15ÁEEEEE5,Launch,2+25 + WSplatÁEEEEE5 [2+40ÁEEEEE5],https://cdn.discordapp.com/attachments/1005816615113330699/1005824764398547014/DBFZ_SSGoku_Kamehameha.png
+13,,j.236S,Air Kamehameha,262ÁEEEEE5,,90%+1 (Once),All,18,25,30,,,,2+15ÁEEEEE5,Launch,"2+25 + WSplatÁEEEEE5 [2+40 + GBounceÁEEEEE4, 2+40]",https://cdn.discordapp.com/attachments/1005816615113330699/1005824764398547014/DBFZ_SSGoku_Kamehameha.png
+0,,Assist A,Kamehameha,200ÁEEEEE5,,90%+2 (Once),All,34,25,63,30,,,2+15ÁEEEEE5,Launch,2+25 + WSplatÁEEEEE5,https://cdn.discordapp.com/attachments/1005816615113330699/1005824764398547014/DBFZ_SSGoku_Kamehameha.png
+1,,Assist B,Flurry Kick,"250, 800",,90%+2 (Once),All,20,,,40,,,,,,https://cdn.discordapp.com/attachments/1005816615113330699/1005824605656731730/DBFZ_SSGoku_FlurryKick.png
+2,,Assist C,Dragon Storm,"450ÁEEEEE2, 400",,90%+2 (Once),All,35 [20],,,55,,,,,,https://cdn.discordapp.com/attachments/1005816615113330699/1005824447036542986/DBFZ_SSGoku_DragonFlashFist.png
+0,,236L+M,Super Kamehameha,250ÁEEEEE10 [270ÁEEEEE10],UDV,100%+2 (Once),All,9+4,45,36,-19,9-20 All,,2+15ÁEEEEE10,Launch,"2+30ÁEEEEE9, 2+22 [2+40ÁEEEEE9, 2+35]",https://cdn.discordapp.com/attachments/1005816615113330699/1005825424590381148/DBFZ_SSGoku_SuperKamehameha.png
+1,,j.236L+M,Air Super Kamehameha,250ÁEEEEE10,UDV,100%+2 (Once),All,9+4,45,45 [42],,9-20 All,,2+15ÁEEEEE10,Launch,"2+30ÁEEEEE9, 2+22 [2+30 + Slide 4ÁEEEEE9, 2+60 + Slide 29]",https://cdn.discordapp.com/attachments/1005816615113330699/1005825424590381148/DBFZ_SSGoku_SuperKamehameha.png
+2,,236H+S,Warp Kamehameha,270ÁEEEEE10,UDV,100%+2 (Once),All,18+4 [8+4],45,36,-19,18-29 [8-19] All,,2+15ÁEEEEE10,Launch,"2+40ÁEEEEE9, 2+35",https://cdn.discordapp.com/attachments/1005816615113330699/1005825551883313162/DBFZ_SSGoku_WarpKamehameha2.png
+3,,j.236H+S,Air Warp Kamehameha,270ÁEEEEE10 {140ÁEEEEE10},UDV,100%+2 (Once),All,18+4 [8+4],45,36,-19,18-29 [8-19] All,,2+15ÁEEEEE10,Launch,"2+40ÁEEEEE9, 2+35",https://cdn.discordapp.com/attachments/1005816615113330699/1005825551883313162/DBFZ_SSGoku_WarpKamehameha2.png
+4,,214L+M,Meteor Smash,4259 [4059],UDV,,All,9+3~9,6,24,-14 [+45],1-17~23 All,4,15,Launch,Down,https://cdn.discordapp.com/attachments/1005816615113330699/1005825665196630026/DBFZ_SSGoku_MeteorSmash.png

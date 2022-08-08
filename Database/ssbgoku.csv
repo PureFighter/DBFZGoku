@@ -1,0 +1,37 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit
+0,,5L,None,400,,,All,6,4,11,-3,,,11,16,16
+1,,5LL,None,700,,,Low,10,3,19,-6,,,15,Launch,25
+2,,5LLL,None,1000,U3+,,High,26,3,18,-5,,,,Launch,34
+3,,5M,None,700,,,All,10,3,21 [15],-8 [-2],,,15,18,18
+4,,5H,None,850,U1,,All,14,6,18,-8,,,15,Launch,22 /
+5,,5S,None,350×6,,,All,13,X{(9)X}×5,24,-4,,,20,23,25
+6,,2L,None,400,,,Low,7,3,13,-4,,,11,16,16
+7,,2M,None,700,,,Low,10,8,18,-10,,,15,Launch,22
+8,,2H,None,850,U1+,,All,14,3,23+7L,-17,4-16 Head,,15,Launch,22 / 39
+9,,6M,None,850,,,High,24,6,4+6L,0,,,15,18,23
+10,,j.L,None,400,,,High,6,4,11,,,,11,16,16
+11,,j.M,None,700,,,High,10,4,15,,,,15,18,18
+12,,j.H,None,850 / 1000,D1+ [D3+],,High,13,6,21,,,,15,22,
+13,,j.S,None,600,,,All,13,,Total 40+7L,,,,20,23,25
+14,,j.2H,None,850,U1+,,All,11,4,23,,,,15,Launch,22 / 39
+0,,236L,L Divine Void Strike,900,,,All,9,6,23,-5,4-14 Ki Blasts,,22,Launch,
+1,,236M,M Divine Void Strike,1200,U1+,,All,17,10,23,-5,4-26 Ki Blasts,,,Launch,
+2,,236H,H Divine Void Strike,1400,U1+,,All,28~32,10,23,-5,"1-37~41 Ki Blasts, 13-25~29 All",,,Launch,
+3,,j.236L,Air L Divine Void Strike,900,,,All,9,6,23,,4-14 Ki Blasts,,23,Launch,
+4,,j.236M,Air M Divine Void Strike,1000,U1+,,All,17,10,23,,4-26 Ki Blasts,,,Launch,
+5,,j.236H,Air H Divine Void Strike,1400,U1+,,All,28~32,10,23,-5,"1-37~41 Ki Blasts, 13-25 All",,,Launch,
+6,,214L,L Super God Shock Flash,1200 [800] / 1200,D2,,Throw [All],17,1[(7)3],[18],[-5],,,14,Launch,
+7,,214M,M Super God Shock Flash,1200,U1+ → D2,,Throw,26,1,25,,,,,Launch,"DBFZ_SSBGoku_SuperGodShockFlash.png,DBFZ_SSBGoku_SuperGodShockFlash-2.png"
+8,,214H,H Super God Shock Flash,1200 [800] / 1300,U1+ → D2,,Throw [All],24,1[(7)3],[18],[-5],,,15,Launch,"DBFZ_SSBGoku_SuperGodShockFlash.png,DBFZ_SSBGoku_SuperGodShockFlash-2.png"
+9,,j.214L,L Dragon Flash Kick,900,,,All,13,Until L,20,,,,,,
+10,,j.214M,M Dragon Flash Kick,1000,D1,,All,18,Until L,23,,,,,,
+11,,j.214H,H Dragon Flash Kick,"900 / 900,400×2",D1,,All,11,Until L,23,,,,,,
+12,,236S,Instant Transmission (Back),900,D1,,All,39,4,22,+3,16-20 All,,,,
+13,,214S,Instant Transmission (Foward),900,D1,,All,35,4,22,+3,16-20 All,,,,
+0,,Assist A,Dragon Flash Kick,800,,,All,30,7,40,+29,,,29,,
+1,,Assist B,Divine Void Strike,800,,,All,20,,,29,,,29,,
+2,,Assist C,Instant Transmission,1080,,,All,45,,,35,,,35,,
+0,,236L+M,Extreme Speed Kamehameha,250×10,UDV,,All,10+4,45,42,-26,10-21 All,,,,
+1,,j.236L+M,Air Extreme Speed Kamehameha,250×10,UDV,,All,10+4,45,48,,10-21 All,,,,
+2,,214L+M,x10 Kaioken Kamehameha,4220,UDV,,All,9+3~8,5,29,-18,1-(16~21) Full,,,,
+3,,214L+M > X,Evolved Attack,1710,,,,,,,,1-16 All,,,,

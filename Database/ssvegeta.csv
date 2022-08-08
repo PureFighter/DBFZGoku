@@ -1,0 +1,38 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit,image
+0,,5L,None,400,,,All,6,3,12,-3,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003074193698926/DBFZ_SSVegeta_5L.png
+1,,5LL,None,700,,,All,10,4,14,-2,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003074600538132/DBFZ_SSVegeta_5LL.png
+2,,5LLL,None,700 / 1000,U3+,,All,12,3,21,-5,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003074952863754/DBFZ_SSVegeta_5LLL.png
+3,,5M,None,700,,,All,9,6,15,-5,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003075271634974/DBFZ_SSVegeta_5M.png
+4,,5H,None,850,U1,,All,14,6,18,-8,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003092866732123/DBFZ_SSVegeta_5H.png
+5,,5S,None,250ÁEE8,,,All,13,[1(9)] *8,24,-4 [+3],,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003075632349354/DBFZ_SSVegeta_5S.png
+6,,2L,None,400,,,Low,7,3,13,-4,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003093718183946/DBFZ_SSVegeta_2L.png
+7,,2M,None,700,,,Low,10,4,17,-5,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003092510228520/DBFZ_SSVegeta_2M.png
+8,,6M,None,850,,,High,24,6,10,0,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003075988869212/DBFZ_SSVegeta_6M.png
+9,,2H,None,850,U1+,,All,13,3,30,-17,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003093206466660/DBFZ_SSVegeta_2H.png
+10,,j.L,None,400,,,High,6,3,13,-4,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003034771431435/DBFZ_SSVegeta_jL.png
+11,,j.M,None,700,,,High,10,5,13,0,,,,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035174092921/DBFZ_SSVegeta_jM.png
+12,,j.H,None,850 / 1000,D1+ [D3+],,High,13,6,22,-12,,,10,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003031998992445/DBFZ_SSVegeta_jH.png
+13,,j.S,None,250ÁEE5,,,All,12,[1(9)] *5,23,-3,,,20,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035559972944/DBFZ_SSVegeta_jS.png
+14,,j.2H,None,850,U1+,,All,12,3,12,3,,,15,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003031655063592/DBFZ_SSVegeta_j2H.png
+0,,j.2L,Interceptor Kick,900,,,All,17,Until Landing,13,0*,,,13,Ground Bounce,Soft KD,https://cdn.discordapp.com/attachments/1006002954790248448/1006003031315329074/DBFZ_SSVegeta_InterceptorKick.png
+1,,236L,L Super Dash Kick,900,,,All,11,6,26,-4,,,22,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035912290397/DBFZ_SSVegeta_SuperDashKick.png
+2,,236M,M Super Dash Kick,"300ÁEE2, 500",U1+,,All,11,4(10)4(11)8,17,-9 to -2,,,15,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035912290397/DBFZ_SSVegeta_SuperDashKick.png
+3,,236H,H Super Dash Kick,1000,U1+,,All,11,12,23,-19 to -8,,,15,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035912290397/DBFZ_SSVegeta_SuperDashKick.png
+4,,j.236L,Air L Super Dash Kick,900,,,All,10,6,26,-5,,,21,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035912290397/DBFZ_SSVegeta_SuperDashKick.png
+5,,j.236M,Air M Super Dash Kick,"300ÁEE2, 500",U1+,,All,11,4(10)4(11)8,27,-19 to -12,,,15,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035912290397/DBFZ_SSVegeta_SuperDashKick.png
+6,,j.236H,Air H Super Dash Kick,1000,U1+,,All,10,12,15,-11 to 0,,,15,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035912290397/DBFZ_SSVegeta_SuperDashKick.png
+7,,214L,L Crushing Knee Kick,900,,,All,9,9,31,-18 to -28,1-,,13,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030577127465/DBFZ_SSVegeta_CrushingKneeKick.png
+8,,214M,M Crushing Knee Kick,"800,300",D1,,All,16,12,30,-17 to -30,Full 1-19,,13,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030577127465/DBFZ_SSVegeta_CrushingKneeKick.png
+9,,214H,H Crushing Knee Kick,"800,100ÁEE5,300",D1,,All,9,22,37,-24 to -47,Full 1-11,,13,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030577127465/DBFZ_SSVegeta_CrushingKneeKick.png
+10,,j.214L,Air L Crushing Knee Kick,900,,,All,9,9,27,-14 to -24,Head 1-,,13,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003076794171392/DBFZ_SSVegeta_ConsecutiveEnergyBlast.png
+11,,j.214M,Air M Crushing Knee Kick,"800,300",D1,,All,12,12,33,-20 to -30,Full 1-15,,13,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003076794171392/DBFZ_SSVegeta_ConsecutiveEnergyBlast.png
+12,,j.214H,Air H Crushing Knee Kick,"800,100ÁEE5,300",D1,,All,9,12,27,-14 to -27,Full 1-11,,13,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035559972944/DBFZ_SSVegeta_jS.png
+13,,236S,Consecutive Energy Blast,100ÁEE16,,,All,9,"1(5)*15, 1",26,-7,,,22,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003076794171392/DBFZ_SSVegeta_ConsecutiveEnergyBlast.png
+14,,j.236S,Air Consecutive Energy Blast,100ÁEE16,,,All,16,"1(5), 1(4)1(5)*7, 1",21,1,,,22,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030199644311/DBFZ_SSVegeta_ConsecutiveEnergyBlastAir.png
+0,,Assist A,Consecutive Energy Blast,130ÁEE8,,,All,38,[1(4)]*8,69,+46 to +53,,,+46 to +53,Launch,57,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030199644311/DBFZ_SSVegeta_ConsecutiveEnergyBlastAir.png
+1,,Assist B,Super Dash Kick,800,,,All,20,6,Total 82~116,31,,,31,Launch,45,https://cdn.discordapp.com/attachments/1006002954790248448/1006003035912290397/DBFZ_SSVegeta_SuperDashKick.png
+2,,Assist C,Crushing Knee Kick,"180ÁEE6, 400",,,All,41 [21],22,Total 126~177,+18 to +24,36-? Full,,6f per hit,Launch,93,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030577127465/DBFZ_SSVegeta_CrushingKneeKick.png
+0,,236L+M,Big Bang Attack,2200,UDV,,All,9+4,1,57,-27,9-21 All,,30,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003076383113269/DBFZ_SSVegeta_BigBangAttack.png
+1,,j.236L+M,Air Big Bang Attack,2200,UDV,,All,9+4,1,56,-26,9-21 All,,30,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003076383113269/DBFZ_SSVegeta_BigBangAttack.png
+2,,214L+M,Final Flash,220ÁEE20,UDV,,All,12+3,85,50,-34 [+42],1-28 All,,16,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030937829498/DBFZ_SSVegeta_FinalFlash.png
+3,,j.214L+M,Air Final Flash,220ÁEE20,UDV,,All,12+3,85,Until Landing,-34 [+?],1-28 All,,16,,,https://cdn.discordapp.com/attachments/1006002954790248448/1006003030937829498/DBFZ_SSVegeta_FinalFlash.png

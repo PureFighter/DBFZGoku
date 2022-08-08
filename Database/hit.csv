@@ -1,0 +1,39 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit
+0,,5L,None,400,,,All,6,3,9,±0,,1,11,16,16
+1,,5LL,None,700,,,All,10,3,18,-5,,,,,
+2,,5LLL,None,"350×2, 450",U3+,,All,10,3,18,-5,,4,18,Launch,35 / 34
+3,,5M,None,700,,,All,9-13,3,15,-2,,2,15,18,18
+4,,5H,None,850 / 1000,U1,,All,11-17,,21,-7,,4,15,Launch,22 / 39 + WSplat
+5,,5S Catch,None,,,,All,4,15,22,,3-18 Guard Point,,,,
+6,,5S Attack,None,850,U1,,All,,,10,-7,,,,,
+7,,2L,None,850,,,High,20,4,19,-7,,2,15,Tech,22
+8,,2M,None,700,,,Low,27,3,18,-5,,2,15,Launch,22
+9,,2H,None,850 / 1000,U1+,,All,13,3,27,-14,4-15 Head,4,15,Launch,22 / 39
+10,,6M,None,850,,,High,24,7,3+6L,±0,,3,15,18,23
+11,,j.L,None,400,,,High,6,3,12,,,1,11,16,16
+12,,j.M,None,700,,,High,9,4,,,,2,15,18,18
+13,,j.H,None,850 / 1000,D1+ [D3+],,High,13,4,,,,3 / 4,15,20,60 / 59 + Slide 34 [34 + WBounce]
+14,,j.S Catch,None,,,,,4,15,28,,,,,,
+15,,j.S Attack,None,,,,,,,15-21,,,,,,
+16,,j.2H,None,850,U1+,,All,13,3,,,,3,15,Launch,20 / 39
+0,,236L,Vital Point Attack,,,,,11,11-50,70,,,,,,
+1,,236L > L,Direct Hit,900,,,All,5-12,4,14,-2,,,,Launch,
+2,,236L > M,Instant Blow,1450,D1,,All,8-15,3,17,-4,,,,Launch,
+3,,236L > H,Guard Breaker,1500,U1,,All,7-14,6,18,-5,1-9~19 All,,,Launch,
+4,,236M,M Tides of Time,,,,,28,28-51,20,,18-60 All,,,,
+5,,236H,H Tides of Time,,,,,14,14-40,15,,4-? All,,,,
+6,,236M > L,Time Release,700×1~3,,,All [High],"9, 10, 11","7, 7, 8",32,-18,,,,,
+7,,236M > M,Instant Blow,1450,D1,,All,20-31,3,17,-4,,,,,
+8,,236M > H,Guard Breaker,1500,U1,,All,19-30,3,18,-5,,,,,
+9,,214L,L Icy Glare,230×7,U1,,Throw,26,min 4,24,,,,,Launch,
+10,,214M,M Icy Glare,230×7,U1,,Throw,34,min 4,24,,,,,Launch,
+11,,214H,H Icy Glare,260×7,U1,,Throw,24,min 4,24,,,,,Launch,
+12,,236S,Deadly Intent,,,,,5,22-31,(stance),,5-Recovery Projectile,,,,
+13,,214S,Mark of an Assassin,,,,,5,25,,,5-29 Projectile,,,,
+0,,Assist A,Guard Breaker,800,,,All,26,6,,+29,,,29,Launch,
+1,,Assist B,Instant Blow,800,,,All,30,6,,+29,,,29,Launch,
+2,,Assist C,Time Release,"450, 350×2",,,All,"50, 21",10,,+32,,,32,Launch,
+0,,236L+M,Realized Power,550×4,UDV,,All,7+4,,,-18,?-? All,,15,Launch,
+1,,j.236L+M,Air Realized Power,550×4,UDV,,All,7+4,,,-18,?-? All,,15,Launch,
+2,,236H+S,Death Blow,2564,UDV,,All,16+4,1,22,-16,?-? All,,,Launch,
+3,,214L+M,I keep improving,4300,UDV,,All,9+3,,,-14,1-? All,,,Hard Knockdown,Hard Knockdown

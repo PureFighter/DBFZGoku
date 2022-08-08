@@ -1,0 +1,38 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit,image
+0,,5L,None,400,,,All,6,3,12,-3,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083975141392384/DBFZ_TeenGohan_5L.png
+1,,5LL,None,700,,,All,9,3,17+10L,-4,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083975661502514/DBFZ_TeenGohan_5LL.png
+2,,5LLL,None,1000,U3+,,All,13,4,Until L+3,-5,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083976026394644/DBFZ_TeenGohan_5LLL.png
+3,,5M,None,700,,,All,9,3,17,-3,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083976403898368/DBFZ_TeenGohan_5M.png
+4,,5H,None,850,U1,,All,15,6,18,-8,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083974826835998/DBFZ_TeenGohan_5H.png
+5,,5S,None,300ÁE4,,,All,11,,25,-4,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083972519968858/DBFZ_TeenGohan_5S.png
+6,,2L,None,400,,,Low,7,3,13,-4,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083973262356561/DBFZ_TeenGohan_2L.png
+7,,2M,None,700,,,Low,11,12,12,-8,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083973925048320/DBFZ_TeenGohan_2M.png
+8,,2H,None,850,U1+,,All,15,3,22+8L,-17,4-17 Head,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083972889055294/DBFZ_TeenGohan_2H.png
+9,,2S,None,"600, 700",,,All,32,,20+6L,+24 [+12],,,24 [12],,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083974411595836/DBFZ_TeenGohan_2S.png
+10,,6M,None,850,,,High,24,6,4+6L,±0,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084050794066061/DBFZ_TeenGohan_6M.png
+11,,j.L,None,400,,,High,6,3,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084101956173916/DBFZ_TeenGohan_jL.png
+12,,j.M,None,700,,,High,9,3,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084102258167938/DBFZ_TeenGohan_jM.png
+13,,j.H,None,850 / 1000,D1+ [D3+],,High,13,3,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084101561921607/DBFZ_TeenGohan_jH.png
+14,,j.S,None,400ÁE4,,,All,13,,+5L,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084102543392799/DBFZ_TeenGohan_jS.png
+15,,j.2H,None,850,U1+,,All,11,3,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084101243162804/DBFZ_TeenGohan_j2H.png
+16,,j.2S,None,"600, 700",,,All,20,,+6L,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006083974411595836/DBFZ_TeenGohan_2S.png
+0,,236L,L 5-Hit Combo,500,,,All,11,6,16,-5,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052228509696/DBFZ_TeenGohan_FiveHitCombo.png
+1,,236M,M 5-Hit Combo,500,,,All,13,11,16,-11,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052228509696/DBFZ_TeenGohan_FiveHitCombo.png
+2,,236H,H 5-Hit Combo,"300ÁE4, 900",U1+,,All,13,7,16,-5,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052228509696/DBFZ_TeenGohan_FiveHitCombo.png
+3,,236X > L,L 5-Hit Combo Follow-up 1~3,500,,,All,7,,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052593418260/DBFZ_TeenGohan_FiveHitCombo2.png
+4,,236X > M,M 5-Hit Combo Follow-up 1~3,500,,,All,7,,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052593418260/DBFZ_TeenGohan_FiveHitCombo2.png
+5,,236X > X > L,L 5-Hit Combo Follow-up 4,700,U1,,All,3,,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052937355305/DBFZ_TeenGohan_FiveHitCombo3.png
+6,,236X > X > M,M 5-Hit Combo Follow-up 4,700,U1,,All,3,,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052937355305/DBFZ_TeenGohan_FiveHitCombo3.png
+7,,236X > X > H,H 5-Hit Combo Follow-up,"550ÁE3, 700",U1+,,All,3,,,,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084052937355305/DBFZ_TeenGohan_FiveHitCombo3.png
+8,,j.236L,L Flying Kick,350ÁEN,,,All,7,{3(2)3}ÁEN,11,-5,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084100886634556/DBFZ_TeenGohan_FlyingKick.png
+9,,j.236M,M Flying Kick,"80ÁE7 / 80ÁE7,600",U1+,,All,16,{3(1)3}ÁE6,10,-2,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084100886634556/DBFZ_TeenGohan_FlyingKick.png
+10,,j.236H,H Flying Kick,"80ÁE13 / 80ÁE13,900",U1+,,All,9,{3(1)3}ÁE12,6,1,,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084100886634556/DBFZ_TeenGohan_FlyingKick.png
+11,,214L,L Super Dragon Flight,1000,,,All,9,10,21+8L,-28,1-10 Head,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084100555292682/DBFZ_TeenGohan_SuperDragonFlight.png
+12,,214M,M Super Dragon Flight,1350,U1+,,All,16,16,29+8L,-41,1-17 All,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084100555292682/DBFZ_TeenGohan_SuperDragonFlight.png
+13,,214H,H Super Dragon Flight,"1000 / 1000,200ÁE6",U1+,,All,9,3,29,-20,1-11 All,,,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084100555292682/DBFZ_TeenGohan_SuperDragonFlight.png
+0,,Assist A,Super Dragon Flight,800,,,All,22,16,,29,14-26 All,,29,,,https://cdn.discordapp.com/attachments/1006083879981027389/1006084100555292682/DBFZ_TeenGohan_SuperDragonFlight.png
+1,,Assist B,Masendan,"200, 280, 140, 280",,,All,32-34,,,+55 ~ +57,,,55-57,,,
+2,,Assist C,Flying Kick,"80ÁE7, 450, 400",,,All,45 [20],,,35,,,35,,,
+0,,236L+M,Motionless Kamehameha,340ÁE10,UDV,,All,9+4,41,33,-16,9-20 All,,,,,
+1,,214L+M,Father-Son Kamehameha,230ÁE20,UDV,,All,13+3,82,51,-34 [+39],1-11 All,,,,,
+2,,214L+M > X,Father-Son Kamehameha (Full Power),110ÁE20,UDV,,All,2+0,78,99,[+39],1-End All,,,,,

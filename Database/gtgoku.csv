@@ -1,0 +1,42 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit
+0,,5L,None,400,,,All,6,3,12,-3,,,11,16,16
+1,,5LL,None,180×4,,,All,10,2(2)2(2)2(2)2,18,-4,,,15,,
+2,,5LLL,None,1000,U3+,,Throw,11,1,20 (whiff),,,,,Launch,39
+3,,5M,None,700,,,All,10,4,22,-7,,,18,,
+4,,5H,None,850 / 1000,U1,,All,13,5,19,-8,,,15,Launch,22 /
+5,,5S,None,750,U1+,,All,20,5,20,-5,,,19,Launch,/ 39
+6,,2L,None,400,,,Low,7,3,13,-4,,,11,16,
+7,,2M,None,700,,,Low,10,4,18,-6,,,15,Launch,22
+8,,2H,None,850 / 1000,U1+,,All,13,3,27,-15,,,15,Launch,22 / 39
+9,,2S,None,400,,,Low,14,2,15+5L [9 if cancelled into air action],-5 [+1],,,16,Launch,
+10,,6M,None,850,,,High,24,6,10,0,,,,,
+11,,j.L,None,400,,,High,6,4,10,,,,,,
+12,,j.M,None,700,,,High,9,4,14,,,,,,
+13,,j.H,None,750 [1000],[D3+],,High,11,6,18,,,,,,
+14,,j.S,None,750,U1+,,All,18,3,19,,,,,,
+15,,j.2H,None,850 / 1000,D1,,High,18,4,14+5L,,,,,,
+16,,j.2S,None,400,,,All,"14, Until Landing",2,"14 (air), 28 (landing)",-2,,,,,
+0,,236L,L Dragon Flurry Fist,"300 / 300,850",,,All,9,6,18,-3 (forced),,,20,Launch,
+1,,236M,M Dragon Flurry Fist,"300 / 300,100×2,950",U1+,,All,16,10,18,-3 (forced),,,,Launch,
+2,,236H,H Dragon Flurry Fist,"300 / 300,150×4,1000",U1+,,All,9,10,18,-3 (forced),,,,Launch,
+3,,j.236L,Air L Dragon Flurry Fist,"300 / 300,800",,,All,9,6,19,,,,,,
+4,,j.236M,Air M Dragon Flurry Fist,"300 / 300,100×2,900",U1+,,All,16,10,20,,,,,,
+5,,j.236H,Air H Dragon Flurry Fist,"300 / 300,100×4,900",U1+,,All,9,10,20,,,,,,
+6,,214L,L Dragon Flash Fist,"450, 100×5",,,All,15,19,"20 (air), 26 (ground)",-5,,,,,
+7,,214M,M Dragon Flash Fist,"500, 100×5",D1,,All,17,19,"20 (air), 29 (ground)",-5,,,,,
+8,,214H,H Dragon Flash Fist,"900, 100×5",D1,,All,15-23,,"20 (air), 26 (ground)",-5,,,,,
+9,,j.214L,Air L Dragon Flash Fist,"450, 100×5",,,All,13,19,19,,,,,,
+10,,j.214M,Air M Dragon Flash Fist,"500, 100×5",D1,,All,15,19,19,,,,,,
+11,,j.214H,Air H Dragon Flash Fist,"900, 100×5",D1,,All,13-27,19,18,,,,,,
+12,,236S,Kamehameha,262×5,,,All,20 [39],25,21,-16 (point blank),,,,,
+13,,j.236S,Air Kamehameha,262×5,,,All,18,25,,,,,,,
+14,,214S,Reverse Kamehameha,"700, 500",,,All,"11, 25","3 (blast), 9 (headbutt)",30+15L,-4,,,,,
+15,,j.214S,Air Reverse Kamehameha,"700, 500",,,All,"11, 25","3 (blast), 9 (headbutt)",30+15L,-4,,,,,
+0,,Assist A,Kamehameha,200×5,,,All,40,25,,+22,,,,,
+1,,Assist B,Dragon Flash Fist,"200, 4×140",,,All,21,,,+40,,,40,,
+2,,Assist C,Power Pole,,,,,60,,,+29,,,29,,
+0,,236L+M,Super Kamehameha,250×10 [300×10],UDV,,All,10+4,,,,,,,,
+1,,214L+M,Dragon Fist Explosion,4059 [4859],UDV,,All,9+3,,,,,,,,
+2,,j.214L+M,Air Dragon Fist Explosion,4059 [4859],UDV,,All,9+3,,,,,,,,
+3,,214H+S,Super Ultra Spirit Bomb,4728,UDV,,All,12+1,,,,,,,,
+4,,j.214H+S,Air Super Ultra Spirit Bomb,4728,UDV,,All,25,,,,,,,,

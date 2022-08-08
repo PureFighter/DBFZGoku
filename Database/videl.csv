@@ -1,0 +1,51 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit
+0,,5L,None,350,,,All,6,3,12,-3,,,11,16,16
+1,,5LL,None,600,,,All,10,8,19,-4,,,22,,
+2,,5LLL,None,1000,U3+,,Throw,9,1,26,,,,,Launch,34
+3,,5M,None,600 [500],,,All,8 [11],2,19,-8,,,11,16,16
+4,,5H,None,750 / 1000,U1,,All,15,3,21,-8,,,15,Launch,22 /
+5,,5S,None,1000 [1200],,,All,19,,23,-2 (point blank),,,20,23,25
+6,,2L,None,350,,,Low,7,3,13,-4,,,11,16,16
+7,,2M,None,600,,,Low,12,5,21,-10,,,11,Launch,22
+8,,2H,None,750 / 1000,U1+,,All,15,3,30,-10,4-15 Head,,15,Launch,22 / 39
+9,,2S,None,1000 [1200],,,All,62 (Saiyaman Hurtbox 10),,Total 33 (30 if Sayiaman is out already),,,,22,,
+10,,6M,None,850,,,High,24,6,4+6L,0,,,15,18,23
+11,,6H,None,"600×2, 750",,,All,11,7 (14) 4 (18) 3,18,-5,,,15,18,18
+12,,j.L,None,350,,,High,6,4,12,,,,11,16,16
+13,,j.M,None,600,,,High,8,4,18,,,,15,18,18
+14,,j.H,None,750 / 1000,D1+ [D3+],,High,13,3,21,,,,15,18,18
+15,,j.S,None,850 [1000],,,All,17 (Saiyaman Hurtbox 8),,Total 43+5L (30 if Sayiaman is out already),,,,20,Launch,
+16,,j.2H,None,750,U1+,,All,9,3,19,,,,15,Launch,22 / 39
+17,,j.2S,None,850 [1000],,,All,43 (Saiyaman Hurtbox 13),,Total 39+5L (30 if Sayiaman is out already),,,,20,Launch,
+0,,236L,L Videl Rush,650,,,All,12,6,19,-8,,,,,
+1,,236M,M Videl Rush,700,,,All,17,6,19,-8,,,,,
+2,,236H,H Videl Rush,800,,,All,12,8,19,-8,,,,,
+3,,236X > L,Videl Rush Followup L,650,,,High,13,,,-5,,,,,
+4,,236X > LL,Videl Rush Followup LL,300×4,,,All,8,,,-5,,,,,
+5,,236X > LLL,Videl Rush Followup LLL,1000,U1+,,All,13,,,-12 (airborne) +15L,1-X Full,,,,
+6,,236X > M,Videl Rush Followup M,700,U1+,,High,32,4,5,-8,4-X Full,,,,
+7,,236X > H,Videl Rush Followup H,"800, 850[1000]",U1+,,Throw,21-22,6,14,,,,,Launch,
+8,,j.236L,Air L Videl Rush,"450, 500",,,All,8,6,18,,,,,,
+9,,j.236M,Air M Videl Rush,"500, 550",D1,,All,16,6,18,,,,,,
+10,,j.236H,Air H Videl Rush,"600, 600",D1,,All,8,7,18,,,,,,
+11,,214L,L Frankensteiner,1000,D2,,Throw,26,2,15L,,,,,,
+12,,214M,M Frankensteiner,"700, 850[1000]",U1+,,Throw,27,11,15L,,,,,,
+13,,214H,H Frankensteiner,"800, 850[1000]",U1+,,Throw,20,5,15L,,,,,,
+14,,j.214L,Air L Frankensteiner,1000,D2,,Throw,18,,15L,,,,,,
+15,,j.214M,Air M Frankensteiner,"700, 850[1000]",U1+,,Throw,26,,15L,,,,,,
+16,,j.214H,Air H Frankensteiner,"800, 850[1000]",U1+,,Throw,18,,15L,,,,,,
+17,,22L,L Moonsault Kick,650,,,High,30,4,5,+5 (airborne),4-18 Full,,13,,
+18,,22M,M Moonsault Kick,700,U1+,,High,34,4,7,+5 (airborne),4-21 Full,,15,,
+19,,22H,H Moonsault Kick,800,U1+,,High,30,4,5,+5 (airborne),4-18 Full,,13,,
+20,,j.22L,Air L Moonsault Kick,650,,,High,30,4,5,+5 (airborne),4-16 Full,,13,,
+21,,j.22M,Air M Moonsault Kick,700,U1+,,High,34,4,7,+5 (airborne),4-19 Full,,15,,
+22,,j.22H,Air H Moonsault Kick,800,U1+,,High,30,4,5,+5 (airborne),4-16 Full,,13,,
+23,,214S,Rising Eagle,700,,,All,12,7,30+15L,-40,1-14 All,,11,Launch,
+0,,Assist A,Videl Rush,700,,,All,21,6,43,+21,,,+21,31,31
+1,,Assist B,Eagle Rush,,,,,36,,,+46,,,+46,,
+2,,Assist C,Rising Eagle,,,,,,,,,,,,,
+0,,236L+M,Rainbow Storm,"400, 1850",,,All,11,,,-20,,,,,
+1,,236H+S Counter,"Defender of Love & Justice, Great Saiyaman! (Catch)",,,,,1,39,19,,,,,,
+2,,236H+S Attack,"Defender of Love & Justice, Great Saiyaman! (Attack)",2318 [3180],UDV,,All,,,,,,,,,
+3,,214L+M,Justice Rush,4099 [4387],,,All,13,,,-15,,,,,
+4,,Knocked Down > [H+S],Justice Revenge,240×10 [260×10],,,All,38+2,,,-4,,,,,

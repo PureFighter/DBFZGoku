@@ -1,0 +1,37 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit
+0,,5L,None,400,,,All,6,3,12,-3,,1,11,16,16
+1,,5LL,None,700,,,Low,12,5,,-5,,2,15,18,18
+2,,5LLL,None,1000,U3+,,Throw,12,4,14,,,4,,Launch,35 / 34
+3,,5M,None,700,,,High,27,4,16,-4,,2,15,18,18
+4,,5H,None,850 / 1000,U1,,All,14,4,20,-8,,4,15,Launch,22 / 39 + WSplat
+5,,5S,None,300×4,,,All,11,,,,,,15+5×4,"18+5×3, Launch",20+5×3
+6,,2L,None,400,,,Low,7,3,13,-4,,1,11,16,16
+7,,2M,None,700,,,Low,10,4,22,-10,,2,15,Launch,30
+8,,2H,None,850 / 1000,U1+,,All,13,3,29,-16,4-15 Head,4,15,Launch,22 / 39
+9,,2S,None,600,,,All,13,,,-1,,,15+5,18+5,30+5
+10,,6M,None,850,,,High,24,6,4+6L,±0,,3,15,18,23
+11,,j.L,None,400,,,High,6,3,,,,1,11,16,16
+12,,j.M,None,700,,,High,11,3,,,,2,15,18,18
+13,,j.H,None,850 / 1000,D1+ [D3+],,High,16,3,,,,3 / 4,15,20,60 / 59 + Slide 34 [34 + WBounce]
+14,,j.2H,None,850,U1,,All,13,6,,,,3,15,Launch,20 / 39
+15,,j.S,None,300×4,,,All,12,[1(17)]*4,26,,,,15+5,18+5,20+5
+0,,236L,L Dive Bomb,"100, 500 [700] / 1060",D1,,"All, High [All]",10,6(9)6(0)3,16,-1,,,,,
+1,,236M,M Dive Bomb,"100, 500 [700] / 1140",D1,,"All, High [All]",10,6(9)6(0)3,16,-1,,,,,
+2,,236H,H Dive Bomb,"100, 500 [700] / 1290","D1, U2",,"All, High [All]",7,6(9)6(0)3,16,-3,,,,,
+3,,j.236L,Air L Dive Bomb,500 [700] / 980,D1,,High [All],19,Until L+3,16 after L,-1,,,,,
+4,,j.236M,Air M Dive Bomb,500 [700] / 1060,D1,,High [All],27,Until L+3,16 after L,-1,,,,,
+5,,j.236H,Air H Dive Bomb,500 [700] / 1210,"D1, U2",,High [All],19,Until L+3,16 after L,-3,,,,,
+6,,214L,L Cartwheel,900,U1+,,All,12,5,,-7,4- Head,,,Launch,
+7,,214M,M Cartwheel,900,U1+,,All,16,5,,-7,4- Head,,,Launch,
+8,,214H,H Cartwheel,1100,U1+,,All,8,5,,-7,1- Head,,,Launch,
+9,,j.214L,Air L Cartwheel,900,U1+,,All,9,5,,,4- Head,,,Launch,
+10,,j.214M,Air M Cartwheel,900,U1+,,All,12,5,,,4- Head,,,Launch,
+11,,j.214H,Air H Cartwheel,1100,U1+,,All,6,5,,,4- Head,,,Launch,
+12,,236S,Sweeping Breath,1100,,,All,17,10,24,-13,,,,Launch,
+13,,j.236S,Air Sweeping Breath,1100,,,All,17,10,24,,,,,Launch,
+14,,214S,Fat Throw,400,,,All,31,,18,+1,,,,Launch,
+0,,Assist A,Sweeping Breath,800,,,All,26,10,,+30,,,+30,,
+1,,Assist B,Fat Throw,600,,,All,40,21,,+18,,,+18,,
+2,,Assist C,Cartwheel,"800, 280",,,All,45 [20],,,+25,4- Head,,+25,,
+0,,236L+M,Now Buu really...hate you!,140×19,UDV,,All,11+4,38,,-24,9- All,,,Launch,
+1,,214L+M,Turn into candy!,"750×3, 1500",UDV,,All,9+3,,,-29 [+40],1- All,,,Launch,

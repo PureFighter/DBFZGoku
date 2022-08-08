@@ -1,0 +1,40 @@
+,index,input,name,damage,smash,prorate,guard,startup,active,recovery,onBlock,invuln,level,blockstun,groundHit,airHit
+0,,5L,None,400,,,Low,6,3,13,-4,,1,11,16,16
+1,,5LL,None,700,,,All,10,4,16,-4,,2,15,18,18
+2,,5LLL,None,1000,U3+,,All,12,5,17,-5,,4,15,Launch,34
+3,,5M,None,700,,,All,10,4,18,-6,,2,15,18,18
+4,,5H,None,850 / 1000,U1,,All,15,4,22,-10,,4,15,Launch,22
+5,,5S,None,300×5,,,All,13,,Total 36,-3,,,,,
+6,,2L,None,400,,,Low,7,2,14,-4,,1,11,16,16
+7,,2M,None,700,,,Low,11,6,18,-8,,2,15,Launch,22
+8,,2H,None,850 / 1000,U1+,,All,13,3,27+3L,-17,4-15 Head,,15,Launch,22 / 39
+9,,2S,None,600,,,All,32,,Total 44,+8,,,,,
+10,,6M,None,850,,,High,24,6,4+6L,±0,,3,15,18,23
+11,,j.L,None,400,,,High,6,3,,,,1,,,
+12,,j.M,None,700,,,High,11,3,,,,2,,,
+13,,j.H,None,850 / 1000,D1+ [D3+],,High,13,4,,,,3,,,
+14,,j.S,None,600,,,All,15,,Total 35+3L,,,,,,
+15,,j.2H,None,850,U1+,,All,14,8,,,,,,,
+0,,236L,L Back Grapple,"600, 1000",D2,,Throw,17,1,24,,,,,,
+1,,236M,M Back Grapple,"600,1000 / 600,1100",U1+,,Throw,30,1,24,,,,,,
+2,,236H,H Back Grapple,"600,1200 / 700,1100",U1+,,Throw,28,1,24,,,,,,
+3,,214L,L Support Attack,700,,,All,14,8,Total 39,-5,,,,,
+4,,j.214L,Air L Support Attack,700,,,All,20,3,Total 39,,,,,,
+5,,214M,M Support Attack,400×3,,,All,32,4(13)4(18)9[4(8)4(18)9],Total 39,+27,,,,,
+6,,j.214M,Air M Support Attack,450×2,,,All,23+,4(15)4,Total 32+7L,,,,,,
+7,,214H,H Support Attack,"117×10, 137×7",,,All,14,300,Total 32,,,,,,
+8,,j.214H,Air H Support Attack,"117×10, 137×7",,,All,14,300,Total 32,,,,,,
+9,,214H > 214H,H Support Attack (Manual Trigger),"117×10, 137×7",,,All,30,,Total 39,+29,,,,,
+10,,214H > j.214H,Air H Support Attack (Manual Trigger),"117×10, 137×7",,,All,30,,Total 39+7L,,,,,,
+11,,214S,S Support Attack,300×3,,,All,43,,Total 39,+38,,,,,
+12,,j.214S,Air S Support Attack,,,,,26,40,Total 32,,"32-65 Non-throw, non-Super",,,,
+13,,236S,Destructo-Disc,1000,,,All,20,,,-3,,,,,
+14,,22S,Barrier,,,,,,,Total 48,,"4-39 Non-throw, non-Super",,,,
+15,,j.22S,Air Barrier,,,,,,,Total 48,,"4-39 Non-throw, non-Super",,,,
+0,,Assist A,Barrier,,,,,10,,,,"13-53 Non-throw, non-Super",,,,
+1,,Assist B,Destructo-Disc,800,,,All,26,,,+26,,,,,
+2,,Assist C,Support Attack,"450×2, 400",,,All,46 [21],,,+50,,,,,
+0,,236L+M,Energy Wave,"130×10, 170×7",UDV,,All,24~27+4,40,,-27,10-?~37 All,,,,
+1,,j.236L+M,Air Energy Wave,"130×10, 170×7",UDV,,All,24~27+4,40,,-27,10-?~37 All,,,,
+2,,214L+M,Accel Dance,4218,UDV,,All,9+3,,,-14 [+30],1-? All,,,,
+3,,j.214L+M,Air Accel Dance,4218,UDV,,All,9+3,,Until L,,1-? All,,,,
