@@ -10,7 +10,7 @@ DBFZGoku is a bot that parses data(including images) from the site Dustloop.com 
 * [General Info](#General-Information)
 
 
-* [Libraries Used](libraries-Used)
+* [Libraries Used](libraries)
 
 
 * [Screenshots](#Screenshots)
@@ -28,7 +28,7 @@ Dustloop.com is a famous site used for many fighting games' frame data and often
 This bot parses data from that site and shows it in an embed form.
 Currently,The bot doesn't show images along with the frame data but will be updated later on to include images for all the moves.
 
-## Libraries Used:
+## Libraries:
 
 
 - [Selenium](https://www.selenium.dev/downloads/) version 4.1.5
