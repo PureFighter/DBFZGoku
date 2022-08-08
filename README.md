@@ -15,6 +15,8 @@ This bot parses data from that site and shows it in an embed form.
 Currently,The bot doesn't show images along with the frame data but will be updated later on to include images for all the moves.
 
 imports used for this Project:
+
+
 Selenium version 4.1.5
 
 
