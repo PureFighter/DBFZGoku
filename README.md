@@ -59,5 +59,9 @@ End result example :
 
 
 # Setup:
-To run this bot invite him to your server https://discord.com/api/oauth2/authorize?client_id=979691703160168489&permissions=274877959168&scope=bot
+To run this bot invite him to your server 
+
+https://discord.com/api/oauth2/authorize?client_id=979691703160168489&permissions=274877959168&scope=bot
+
+
 and use the command .dbfz (.charname) (.move) to get the info from the Bot.
