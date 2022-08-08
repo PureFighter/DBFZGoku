@@ -17,16 +17,16 @@ Currently,The bot doesn't show images along with the frame data but will be upda
 ## Libraries Used:
 
 
-- Selenium version 4.1.5
+- [Selenium](https://www.selenium.dev/downloads/) version 4.1.5
 
 
-- pandas version 1.4.3
+- [pandas](https://pandas.pydata.org/) version 1.4.3
 
 
-- beautifulsoup4 version 4.11.1
+- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) version 4.11.1
 
 
-- discord and discord.py version 1.7.3
+- [discord.py](https://discordpy.readthedocs.io/en/stable/#) version 1.7.3
 
 
 
