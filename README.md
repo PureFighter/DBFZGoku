@@ -7,16 +7,16 @@ Credits to Moku#4523 and LeeorFogel#3267 for helping me in a major way with the 
 DBFZ Frame data Bot
 DBFZGoku is a bot that parses data(including images) from the site Dustloop.com using Selenium , Pandas and BeautifulSoup and shows the moves' information in discord embed using Discord.Py and Pandas.
 
-[General Information](General Information)
+* [General Info](#General Information)
 
 
-[Libraries Used](Libraries Used:)
+* [Libraries Used](#Libraries Used:)
 
 
-[Screenshots](Screenshots)
+* [Screenshots](#Screenshots)
 
 
-[Setup](Setup)
+* [Setup](#Setup)
 
 
 
